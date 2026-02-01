@@ -1,0 +1,41 @@
+/target/
+/.idea/
+/.vscode/
+/.claude/
+*.class
+
+# 配置文件
+*.properties
+*.yml
+*.yaml
+*.env
+*.env.*
+.env.local
+.env.*.local
+
+# IDE 配置文件
+.vscode/settings.json
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf
+
+# 密钥和证书
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+*.cer
+*.crt
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
